@@ -14,6 +14,7 @@ int main(){
 
     printf("\nEl valor elevado al cuadrado es: %d", *n);
     
+    printf("\npep la rana");
 }
 
 void cuadradoNumero(int *n){
